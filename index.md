@@ -4,6 +4,6 @@ I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Sc
 
 ## Current Interests and Projects:
 
-- [Website Design](http://hpiringer.github.io/new)
-- [GitHub Pages](http://laderast.github.io)
+- [Website Design](http://hpiringer.github.io/heartdisease/new)
+- [GitHub Pages](http://hpiringer.github.io)
 - Academia
