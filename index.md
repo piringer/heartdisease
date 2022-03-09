@@ -2,8 +2,8 @@
 
 Table of Content
 
-## Current Interests and Projects:
+## Heart Disease Prediction:
 
-- [Website Design](http://hpiringer.github.io/heartdisease/new)
-- [GitHub Pages](http://hpiringer.github.io)
-- Academia
+- [Introduction](http://hpiringer.github.io/heartdisease/about)
+- [Data Exploration](http://hpiringer.github.io/heartdisease/new)
+- [Introduction](http://hpiringer.github.io/heartdisease/about)
