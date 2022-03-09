@@ -1,6 +1,6 @@
 # heartdisease
 The goal of this project is to demonstrate an end-to-end Machine Learning project through a practical problem. The main steps are: 
-- Recognize the problem. 
+* Recognize the problem. 
 - Acquire the data. 
 - Explore the data and gain insight with visualization. 
 - Prepare the data for Machine Learning algorithms. 
