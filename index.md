@@ -16,4 +16,4 @@ The main steps are:
 
 - [Introduction](http://hpiringer.github.io/heartdisease/about)
 - [Data Exploration](http://hpiringer.github.io/heartdisease/Project_Submission_Piringer.pdf)
-- [Introduction](http://hpiringer.github.io/heartdisease/about)
+- [jupyter notebook](http://hpiringer.github.io/heartdisease/capstone.ipynb)
