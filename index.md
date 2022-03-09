@@ -1,6 +1,6 @@
 
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Table of Content
 
 ## Current Interests and Projects:
 
