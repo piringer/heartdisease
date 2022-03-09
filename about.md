@@ -1,17 +1,5 @@
 ## Heart Disease Prediction
 
-The goal of this project is to demonstrate an end-to-end Machine Learning project through a practical problem. The main steps are: 
-* Recognize the problem. 
-* Acquire the data. 
-* Explore the data and gain insight with visualization. 
-* Prepare the data for Machine Learning algorithms. 
-* Train several models and choose the best ones. 
-* Fine tune the models. 
-* Present and interpret the solution. 
-* Create a web application and user interface, then deploy, monitor and maintain the system (Géron, 2019).
-
-For this project, I chose to predict a health condition: ischemic heart disease.
-
 One of the leading causes of death in the United States and around the world is heart disease and heart attacks (CDC, NCHS Data Brief, 2021). According to the CDC, in 2020, about 670 thousand people died from heart disease, and the numbers are growing every year. There are several well documented risk factors that doctors use to diagnose ischemic heart disease: cholesterol levels, high blood pressure, age, obesity, diabetes, angina, a type of chest pain, or ECG abnormalities. In addition to these risk factors, there are several more lifestyle related factors that are worth considering like physical activity, sleep length and quality, medications, vitamins, fruit, vegetables, meat consumption, smoking and alcohol use.
 
 Taking advantage of the large amount of data available today and Machine Learning algorithms, it makes sense to use this technology in diagnostics. Prevention and early diagnosis can be crucial in such a deadly disease, especially since in many cases there are no physical symptoms before the first heart attack. The use of an effective ML model could aid doctors to identify high risk patients and start intervention early either with treatment or minor lifestyle changes.
