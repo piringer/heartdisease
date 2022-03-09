@@ -1,6 +1,6 @@
 
 
-Table of Content
+For this project, I chose to predict a health condition: ischemic heart disease.
 
 ## Heart Disease Prediction:
 
