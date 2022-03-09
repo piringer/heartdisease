@@ -14,6 +14,6 @@ The main steps are:
 
 ## Heart Disease Prediction:
 
-- [Introduction](http://hpiringer.github.io/heartdisease/about)
-- [Data Exploration](http://hpiringer.github.io/heartdisease/Project_Submission_Piringer.pdf)
-- [jupyter notebook](https://github.com/hpiringer/heartdisease/blob/main/capstone.ipynb)
+- [Introduction](http://piringer.github.io/heartdisease/about)
+- [Data Exploration](http://piringer.github.io/heartdisease/Project_Submission_Piringer.pdf)
+- [jupyter notebook](https://github.com/piringer/heartdisease/blob/main/capstone.ipynb)
