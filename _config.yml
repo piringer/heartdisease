@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 title: Heart Disease Prediction
 description: The goal of this project is to demonstrate an end-to-end Machine Learning project through a practical problem. 
 # show_downloads: true
-plugins:
+gems:
   - jekyll-sitemap
   - jekyll-seo-tag
