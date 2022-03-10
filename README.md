@@ -5,9 +5,6 @@ For this project, I chose to predict a health condition: ischemic heart disease.
 
 I trained several ML models and then chose the best performing model and built a web application with microservices. The final step was to deploy the web application using a cloud service, AWS. 
 
-web app URL:
-http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
-
 
 - [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 - [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
