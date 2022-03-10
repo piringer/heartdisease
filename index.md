@@ -2,7 +2,7 @@
 
 For this project, I chose to predict a health condition: ischemic heart disease.
 
-The main steps are: 
+### The main steps are: 
 * Recognize the problem. 
 * Acquire the data. 
 * Explore the data and gain insight with visualization. 
