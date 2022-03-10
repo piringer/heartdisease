@@ -1,0 +1,16 @@
+version: "3" # syntax version
+services:
+  streamlit-app:
+    image: hpiringer/capstone:streamlitfrontend
+    container_name: streamlitapp
+    ports:
+      - 8501:8501
+    working_dir: /Users/heni/OneDrive/EasternUniversity/691capstone/CAPSTONE/APP/APP_KESZ/App/
+
+
+  data-api:
+    image: hpiringer/capstone:fastapibackend
+    container_name: heartapi
+    ports:
+      - 8000:8000
+    working_dir: /Users/heni/OneDrive/EasternUniversity/691capstone/CAPSTONE/APP/APP_KESZ/Api/
