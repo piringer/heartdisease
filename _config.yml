@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Heart Disease Prediction
-description: End-to-end Machine Learning project through a practical problem <a href="http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/">web app</a>.
+title: Machine Learning Project
+description: Heart Disease Prediction
 
 # show_downloads: true
 gems:
