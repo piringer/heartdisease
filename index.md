@@ -1,5 +1,5 @@
 
-
+The goal of this project is to demonstrate an end-to-end Machine Learning project through a practical problem.
 For this project, I chose to predict a health condition: ischemic heart disease.
 
 ### The main steps are: 
