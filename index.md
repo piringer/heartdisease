@@ -16,4 +16,4 @@ The main steps are:
 
 - [Introduction](http://piringer.github.io/heartdisease/intro)
 - [Project Description](https://github.com/piringer/heartdisease/blob/main/Project%20.pdf)
-- [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/capstone.ipynb)
+- [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
