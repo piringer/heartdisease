@@ -10,7 +10,7 @@ The main steps are:
 * Train several models and choose the best ones. 
 * Fine tune the models. 
 * Present and interpret the solution. 
-* Create a web application and user interface, then deploy, monitor and maintain the system (Géron, 2019).
+* Create a web application and user interface, then deploy, monitor and maintain the system.
 
 ## Heart Disease Prediction:
 
