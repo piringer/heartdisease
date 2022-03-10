@@ -21,6 +21,6 @@ For this project, I chose to predict a health condition: ischemic heart disease.
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 
-[Walkthrough Video](https://youtu.be/BMbdpcVzEPc)
+[Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
