@@ -10,4 +10,4 @@ http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
 
 
 - [Walkthrough Video](https://youtu.be/BMbdpcVzEPc)
-- [Web app URL](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+- [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
