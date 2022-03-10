@@ -1,14 +1,8 @@
 theme: jekyll-theme-cayman
 title: Heart Disease Prediction
 description: The goal of this project is to demonstrate an end-to-end Machine Learning project through a practical problem. 
-web app URL: http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
+URL: http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
 # show_downloads: true
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-- [Introduction](http://piringer.github.io/heartdisease/intro)
-- [Project Description](https://github.com/piringer/heartdisease/blob/main/Project%20.pdf)
-- [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
-
-- [Walkthrough Video](https://youtu.be/BMbdpcVzEPc)
-- [Web app URL](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
