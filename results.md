@@ -1,4 +1,5 @@
-ML Model Results and Discussion:
+## ML Model Results and Discussion:
+
 The hyperparameters were fine-tuned using grid search to find the best parameters.
 Finding the best parameters to constrain the models helps prevent overfitting. Our goal
 when training ML models is not to get the best performance metric scores, but to have a
