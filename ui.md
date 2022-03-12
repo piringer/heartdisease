@@ -106,7 +106,7 @@ command I started the application which is now available on the following URL:
 
 [User Interface](http://piringer.github.io/heartdisease/ui)
 
-[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
+[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/austral_nb.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
