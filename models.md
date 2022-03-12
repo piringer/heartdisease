@@ -185,6 +185,8 @@ score was 0.9848 and MSE=0.0152.
 
 [Results and Discussion](http://piringer.github.io/heartdisease/results)
 
+[User Interface](http://piringer.github.io/heartdisease/ui)
+
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
