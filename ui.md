@@ -1,6 +1,6 @@
-## User-Interface
+## User Interface
 
-### ML Model User-Interface:
+### ML Model User Interface:
 
 The final step was to build a web application using FastAPI and Streamlit, and to launch
 it on AWS.
@@ -87,3 +87,22 @@ the Docker Hub repository using the commands:
 command I started the application which is now available on the following URL:
 
   http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
+  
+[Introduction](http://piringer.github.io/heartdisease/intro)
+
+[Data Description](http://piringer.github.io/heartdisease/Project.pdf)
+
+[Data Exploration and Preparation](http://piringer.github.io/heartdisease/exploration)
+
+[ML Model Training](http://piringer.github.io/heartdisease/models)
+
+[Results and Discussion](http://piringer.github.io/heartdisease/results)
+
+[User Interface](http://piringer.github.io/heartdisease/ui)
+
+[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
+
+[Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
+
+[Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+
