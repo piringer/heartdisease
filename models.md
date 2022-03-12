@@ -183,9 +183,10 @@ score was 0.9848 and MSE=0.0152.
 
 [ML Model Training](http://piringer.github.io/heartdisease/models)
 
+[Results and Discussion](http://piringer.github.io/heartdisease/results)
+
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
-
