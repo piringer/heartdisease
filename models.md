@@ -174,3 +174,18 @@ have 5, 3, 3, and 2 neurons. We used 400 epochs with early stopping and with
 patience=10. The MSE is computed on the validation samples. I also used learning
 curve graphs to check if the validation loss got close to the training loss. The accuracy
 score was 0.9848 and MSE=0.0152.
+
+[Introduction](http://piringer.github.io/heartdisease/intro)
+
+[Data Description](http://piringer.github.io/heartdisease/Project.pdf)
+
+[Data Exploration and Preparation](http://piringer.github.io/heartdisease/exploration)
+
+[ML Model Training](http://piringer.github.io/heartdisease/models)
+
+[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
+
+[Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
+
+[Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+
