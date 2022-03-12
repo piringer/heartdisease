@@ -20,8 +20,11 @@ First, documentation and data files of the survey were downloaded from the Austr
 
 [Results and Discussion](http://piringer.github.io/heartdisease/results)
 
+[User Interface](http://piringer.github.io/heartdisease/ui)
+
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+
