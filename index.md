@@ -16,7 +16,9 @@ For this project, I chose to predict a health condition: ischemic heart disease.
 
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
-[Project Description](http://piringer.github.io/heartdisease/Project.pdf)
+[Data Description](http://piringer.github.io/heartdisease/Project.pdf)
+
+[Data Exploration and Preparation](http://piringer.github.io/heartdisease/exploration)
 
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
