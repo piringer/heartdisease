@@ -1,4 +1,4 @@
-# Data Exploration and Preparation
+## Data Exploration and Preparation
 
 First, I got familiar with the dataset. I thoroughly read the survey documentation and
 explored the variables of the dataset. After choosing the variables I planned to work
