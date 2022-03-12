@@ -28,6 +28,8 @@ remaining 33 features as described above in the Data Description part.
 Then, I split the data into training data and test data using train_test_split and 20% test
 set size. I used the test set after the hyperparameters were fine-tuned.
 
+[Home](http://piringer.github.io/heartdisease/index)
+
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
 [Data Description](http://piringer.github.io/heartdisease/Project.pdf)
@@ -45,3 +47,4 @@ set size. I used the test set after the hyperparameters were fine-tuned.
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+
