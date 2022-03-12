@@ -1,4 +1,4 @@
-## Heart Disease Prediction
+## Introduction - Heart Disease Prediction
 
 One of the leading causes of death in the United States and around the world is heart disease and heart attacks (CDC, NCHS Data Brief, 2021). According to the CDC, in 2020, about 670 thousand people died from heart disease, and the numbers are growing every year. There are several well documented risk factors that doctors use to diagnose ischemic heart disease: cholesterol levels, high blood pressure, age, obesity, diabetes, angina, a type of chest pain, or ECG abnormalities. In addition to these risk factors, there are several more lifestyle related factors that are worth considering like physical activity, sleep length and quality, medications, vitamins, fruit, vegetables, meat consumption, smoking and alcohol use.
 
