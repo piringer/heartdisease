@@ -89,6 +89,8 @@ the Docker Hub repository using the commands:
 command I started the application which is now available on the following URL:
 
   http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/
+
+<br/><br/>
   
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
