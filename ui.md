@@ -92,6 +92,8 @@ command I started the application which is now available on the following URL:
 
 <br/><br/>
   
+[Home](http://piringer.github.io/heartdisease/index)
+
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
 [Data Description](http://piringer.github.io/heartdisease/Project.pdf)
