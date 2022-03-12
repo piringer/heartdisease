@@ -16,8 +16,9 @@ First, documentation and data files of the survey were downloaded from the Austr
 
 [Data Exploration and Preparation](http://piringer.github.io/heartdisease/exploration)
 
-[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
+[ML Model Training](http://piringer.github.io/heartdisease/models)
 
+[Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
