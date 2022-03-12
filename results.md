@@ -40,6 +40,8 @@ cases so the ratio of positive and negative cases could improve.
 After I picked the best model for the web application, I used the pickle library to save the
 model for FastAPI.
 
+[Home](http://piringer.github.io/heartdisease/index)
+
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
 [Data Description](http://piringer.github.io/heartdisease/Project.pdf)
@@ -57,6 +59,7 @@ model for FastAPI.
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
+
 
 
 
