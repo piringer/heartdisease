@@ -58,6 +58,8 @@ working directory, the container and image names and the ports that will be used
 
 I set up the following file structure:
 
+![tree](http://piringer.github.io/heartdisease/docs/assets/tree.png)
+
 We run the docker-compose.yml file from the directory which is located in with the
 command: “docker-compose up”.
 
