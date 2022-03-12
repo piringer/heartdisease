@@ -36,6 +36,8 @@ set size. I used the test set after the hyperparameters were fine-tuned.
 
 [ML Model Training](http://piringer.github.io/heartdisease/models)
 
+[Results and Discussion](http://piringer.github.io/heartdisease/results)
+
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/australian2.ipynb)
 
 [Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
