@@ -7,6 +7,7 @@ Graphs helped to find and understand relationships between the variables. We als
 checked the distribution and skewness of the data. Boxplots are useful for detecting
 outliers, histograms present distribution, and scatter plots show relationships between
 two continuous variables.
+
 Next I cleaned and prepared the data for the ML algorithms. I addressed the missing
 values with imputation. Because the dataset is relatively small, I didn’t drop any missing
 values, but for both categorical and continuous features, I used KNN Imputer. For the
@@ -19,6 +20,7 @@ data exploration with the info(), describe(), and corr() methods. Since I wanted
 heart disease, I compared patients' data with and without heart attack using boxplots,
 barplots, scatterplots and cat plots with the seaborn library. Finally, I scaled the
 continuous data using the Standard Scaler from scikit-learn preprocessing library.
+
 After I had a clean and preprocessed dataset, I was ready to move on to model building.
 I created two dataframes: features and target. The target data frame contains only one
 column, the feature I want to predict: “heart_attack”. The features dataframe has the
