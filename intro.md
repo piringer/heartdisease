@@ -10,6 +10,8 @@ The project was conducted in this Jupyter Notebook with Python. For the web appl
 
 First, documentation and data files of the survey were downloaded from the Australian Data Archive. The next step was to explore the data, read through the survey, and select questions that might be relevant to predicting the risk of a heart attack. Then I visualized the different features and looked for correlations. After that, I needed to clean and prepare the data for the machine learning models. I imputed missing data, renamed attributes, and scaled continuous features. Next, I trained several ML models and compared their performance metrics. The models I compared are: Logistic Regression, SVC, Decision Tree Classifier, Random Forest Classifier, KNN Classifier, and ANN with tensorflow. After analyzing the results, I chose the best performing model and built a web application with microservices. The final step was to deploy the web application using a cloud service, AWS.
 
+[Home](http://piringer.github.io/heartdisease/index)
+
 [Introduction](http://piringer.github.io/heartdisease/intro)
 
 [Data Description](http://piringer.github.io/heartdisease/Project.pdf)
