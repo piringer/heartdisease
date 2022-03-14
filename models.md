@@ -191,7 +191,7 @@ score was 0.9848 and MSE=0.0152.
 
 [Jupyter Notebook](https://github.com/piringer/heartdisease/blob/main/austral_nb.ipynb)
 
-[Walkthrough Video](https://www.youtube.com/watch?v=18eQWJJu3tA)
+[Walkthrough Video](https://youtu.be/aUX2eIEG-tU)
 
 [Web App](http://ec2-52-54-129-72.compute-1.amazonaws.com:8501/)
 
